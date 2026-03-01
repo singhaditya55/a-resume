@@ -24,10 +24,7 @@ This is a simple portfolio resume website aimed at providing a professional onli
 
 You can view a live version of this resume (if deployed):
 
-🔗 *(Add your live demo link here — e.g., GitHub Pages or Netlify)*
-
-Example (replace with your link):
-[https://singhaditya55.github.io/a-resume/](https://singhaditya55.github.io/a-resume/)
+🔗 [https://singhaditya55.github.io/a-resume/](https://singhaditya55.github.io/a-resume/)
 
 ---
 
@@ -143,5 +140,3 @@ This project is available under the **MIT License** — feel free to use it, ada
 Thanks to everyone who inspired and contributed ideas for this project.
 
 ---
-
-Just let me know! 🚀
